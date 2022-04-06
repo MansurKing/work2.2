@@ -1,0 +1,13 @@
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.exe
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.deps.json
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.runtimeconfig.json
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.runtimeconfig.dev.json
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.dll
+C:\Users\Mansur\source\repos\work2.2\work2.2\bin\Debug\netcoreapp3.1\work2.2.pdb
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.csproj.AssemblyReference.cache
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.AssemblyInfoInputs.cache
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.AssemblyInfo.cs
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.csproj.CoreCompileInputs.cache
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.dll
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.pdb
+C:\Users\Mansur\source\repos\work2.2\work2.2\obj\Debug\netcoreapp3.1\work2.2.genruntimeconfig.cache
